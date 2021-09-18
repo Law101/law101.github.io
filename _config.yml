@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Lawrence Okegbemi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Research && Engineering"
   links:
     - label: "Website"
