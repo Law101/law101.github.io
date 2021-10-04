@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Accelerating End-to-End Data Science Workflows with Rapids - Part 1"
 date: 2021-10-04T9:57:30+01:00
 categories:
   - NVIDIA RAPIDS
@@ -8,8 +8,7 @@ tags:
   - RAPIDS API
 ---
 
-# Accelerating End-to-End Data Science Workflows with Rapids: Introduction
-
+# Introduction
 Handling traditional data science workflows on CPU has gained much popularity in recent years, and it has become a starting point for exploring and manipulating data quickly. But there are some limitations; the set of tools involved in carrying out the CPU-powered operations on data are not efficient due to rapid increase in data size, high latency in getting computational results during analysis and modeling of large data. Likewise, we have seen a dramatic boost in the performance of complex and computational intensive machine learning models with blazing speed, accelerated by Graphical Processing Unit (GPU). This has been made possible with NVIDIA leading the forefront of HPC Manufacturing and other devices which can speed up data science and AI-driven processes.
 
 The conventional way of using GPU to accelerate processes involve offloading data periodically to the GPU for compute-intense operations and later transferred back to the CPU, this approach can be time-consuming especially when data is constantly been manipulated and transformed.
