@@ -2,7 +2,7 @@
 title: "Accelerating End-to-End Data Science Workflows with Rapids - Part 1"
 date: 2021-10-04T9:57:30+01:00
 categories:
-  - NVIDIA RAPIDS
+  - blog
 tags:
   - accelerated-data-science
   - RAPIDS API
